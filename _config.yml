@@ -8,8 +8,8 @@ logo:               'assets/img/current_headshot.png'
 background:         'assets/img/background.jpg'
 tiled_bg:           true   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-#url:                https://ramundoness.github.io
-url:                http://localhost:4000
+url:                https://ramundoness.github.io
+# url:                http://localhost:4000
 
 # Jekyll
 permalink:          /:title/
