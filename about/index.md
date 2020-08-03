@@ -8,7 +8,7 @@ comments: false
 ![](current_headshot.png)
 <center>Spunky Alamedan interested in the intersection of tech and social good</center>
 
-Greetings! I'm Raymond, a sophomore studying Computer Science at Stanford University (Go Trees!!!). I hail from a quaint town in Alameda, California, where I've lived all my life.
+Greetings! I'm Raymond, a junior studying Computer Science at Stanford University (Go Trees!!!). I hail from a quaint town in Alameda, California, where I've lived all my life.
 
 I'm a self-proclaimed tech enthusiast, often spending hours watching tech YouTubers review phones/laptops and reading articles 
 about the latest and greatest innovations to come out. In my eyes, technology can be the solution to many of the world's problems,
