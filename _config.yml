@@ -4,7 +4,7 @@ bio:                'Stanford University | Computer Science | Class of 2022'
 description:        "Spunky Alamedan interested in the intersection of tech and social good"
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/current_headshot.png'
+logo:               'assets/img/current_headshot.jpg'
 background:         'assets/img/background.jpg'
 tiled_bg:           true   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US

@@ -73,7 +73,7 @@
 }
 .title .btn {
     margin: 10px;
-    @include font-rem(16);
+    @include font-rem(25);
     font-weight:300;
 }
 .post-list {
@@ -121,7 +121,7 @@ img {
 	border-radius: 50%;
 	border: 3px solid $white;
 	height: 286px;
-	width: 191px;
+	width: 220px;
 }
 .author-photo {
     background-color: $white;
