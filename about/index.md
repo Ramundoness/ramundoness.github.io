@@ -5,7 +5,7 @@ tags: []
 date: 2016-03-21
 comments: false
 ---
-![](current_headshot.jpg)
+![imageSize](about_headshot.jpg)
 <center>Spunky Alamedan interested in the intersection of tech and social good</center>
 
 Greetings! I'm Raymond, a junior studying Computer Science at Stanford University (Go Trees!!!). I hail from a quaint town in Alameda, California, where I've lived all my life.
