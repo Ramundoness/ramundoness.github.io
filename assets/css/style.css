@@ -364,8 +364,8 @@ a:hover {
 #sidebar-button {
 	position: fixed;
 	z-index: 100;
-	left: 15px;
-	top: 15px;
+	left: 50px;
+	top: 50px;
 	cursor: pointer;
 	-webkit-transition: all .3s;
 	-moz-transition: all .3s;
