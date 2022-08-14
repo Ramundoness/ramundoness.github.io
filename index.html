@@ -1,5 +1,54 @@
----
-layout: home
-title: Home
-comments: false
----
+<html>
+
+  <head>
+    <title>Raymond Yao</title>
+    <style type="text/css">
+    @font-face {
+        font-family: "Gotham";
+        src: url(assets/fonts/Gotham-Bold.otf) format("opentype");
+        font-weight: 800;
+    }
+    @font-face {
+        font-family: "Gotham";
+        src: url(assets/fonts/Gotham-Book.otf) format("opentype");
+    }
+    </style>
+    <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+    <link rel="icon" href="assets/img/favicon.png">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/animejs@3.1.0/lib/anime.min.js"></script>
+    <script src="assets/script/animate.js"></script>
+    <script src="assets/script/anime.js"></script>
+    <script src="assets/script/script.js"></script>
+  </head>
+
+  <body>
+    <div class="page-wrapper">
+      <div class="home-page-wrapper">
+      	<div id="navbar">
+      		<a href="index.html" class="navbar-item" id="current-navbar-item" style="margin-left: 50px">home</a>
+      		<a href="about.html" class="navbar-item">about</a>
+          <div class="navbar-item" id="email-navbar-item">ryao28@stanford.edu</div>
+      	</div>
+
+        <div id="body-content">
+          <img src="assets/img/raymond.png"id="home-pic" >
+          <div id="intro">
+            Greetings! I'm Raymond, <br>
+            And I Am A <div class="typewrite" data-period="2000" data-type='["Spunky Alamedan Kid", "Stanford Student", "Dog Admirer", "Tech Enthusiast", "Budding Photographer", "AAPI Advocate"]'>
+              <span class="wrap"></span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div id="footer">
+        <div class="footer-item" style="margin-left: 50px">RAYMOND YAO</div>
+        <a href="https://github.com/Ramundoness/" class="footer-icon" target="_blank" style="margin-right: 50px">github</a>
+        <a href="https://www.linkedin.com/in/yaoraymond/" class="footer-icon" target="_blank">linkedin</a>
+      </div>
+    </div>
+
+  </body>
+
+</html>
