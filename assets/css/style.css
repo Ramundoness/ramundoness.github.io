@@ -392,7 +392,7 @@ a:hover {
 #nav-toggle span,
 #nav-toggle span:before,
 #nav-toggle span:after {
-	height: 10px;
+	height: 16px;
 	width: 100px;
 	background: #939393;
 	position: absolute;
@@ -401,11 +401,11 @@ a:hover {
 }
 
 #nav-toggle span:before {
-	top: -30px;
+	top: -20px;
 }
 
 #nav-toggle span:after {
-	bottom: -30px;
+	bottom: -20px;
 }
 
 .sidebar-wrapper ul {
